@@ -150,19 +150,146 @@ Review and improve code quality
 
 Extract insights from structured/unstructured data
 
+### 🛒 eCommerce AI Superpowers
+
+Real-world AI skills built for eCommerce growth (Shopify, Magento, D2C brands).
+
+### 🧠 Product Description Generator
+
+**What it does:**
+Creates high-converting, SEO-optimized product descriptions
+
+**Use case:**
+Increase conversions and organic traffic
+
+**Example Prompt:**
+
+```
+Write a high-converting product description for [product name].
+Include benefits, features, emotional triggers, and SEO keywords.
+Target audience: [audience].
+Tone: persuasive and premium.
+
+```
+
+### 📈 Shopify SEO Optimizer
+
+**What it does:**
+Optimizes product pages for search rankings
+
+**Use case:**
+Rank higher on Google and drive organic sales
+
+**Example Prompt:**
+
+```
+Optimize this product page for SEO:
+- Title
+- Meta description
+- Keywords
+- Structured headings
+```
+
+### 💰 Ad Copy Generator (Meta + Google Ads)
+
+**What it does:**
+Generates high-CTR ad copies
+
+**Use case:**
+Improve ROAS on paid campaigns
+
+**Example Prompt:**
+
+```
+Write 5 high-converting Facebook ad copies for [product].
+Include hooks, benefits, and CTA.
+```
+
+### 💬 Customer Support AI Agent
+
+**What it does:**
+Handles customer queries and generates replies
+
+**Use case:**
+Reduce support workload
+
+**Example Prompt:**
+
+Respond to this customer query professionally and helpfully:
+[customer message]
+
 ---
 
-## 🛒 eCommerce AI Superpowers
+### 🔄 Abandoned Cart Recovery Generator
 
-*(Built for real business use cases)*
+**What it does:**
+Creates follow-up messages to recover lost sales
 
-* Product description generator
-* Shopify SEO optimizer
-* Ad copy generator
-* Customer support automation
-* Conversion-focused content creator
+**Use case:**
+Increase revenue without extra traffic
+
+**Example Prompt:**
+
+```
+Write an abandoned cart recovery message with urgency and incentive.
+Tone: friendly but persuasive.
+```
 
 ---
+
+### ⭐ Review & Testimonial Generator
+
+**What it does:**
+Creates realistic, persuasive reviews
+
+**Use case:**
+Improve social proof
+
+**Example Prompt:**
+
+```
+Generate 5 realistic customer reviews for [product].
+Include different tones and use cases.
+```
+
+---
+
+### 📊 Competitor Analysis Assistant
+
+**What it does:**
+Analyzes competitors and extracts insights
+
+**Use case:**
+Improve positioning and pricing strategy
+
+**Example Prompt:**
+
+```
+Analyze these competitor product pages and summarize:
+- Pricing strategy
+- Key selling points
+- Weaknesses
+```
+
+---
+
+### 🧲 Landing Page Copy Generator
+
+**What it does:**
+Creates high-converting landing pages
+
+**Use case:**
+Improve conversion rate
+
+**Example Prompt:**
+
+```
+Write a landing page for [product].
+Include headline, benefits, FAQs, and CTA.
+```
+
+
+
 
 ## ⚡ Quick Start
 
