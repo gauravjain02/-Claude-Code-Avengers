@@ -57,6 +57,77 @@ Prompt engineering • AI agents • automation
 
 ---
 
+## 🔥 Top Claude Code Repositories (Sorted by Impact)
+
+> ⭐ Star count = GitHub popularity (approximate)
+> 🔥 Impact = Practical usefulness for real-world use
+
+---
+
+### 🏆 Tier 1 — Must Explore First
+
+| Repo                   | ⭐ Stars | Why It Matters                          |
+| ---------------------- | ------- | --------------------------------------- |
+| obra/superpowers       | ⭐ High  | Practical AI capabilities (superpowers) |
+| langchain-ai/langchain | ⭐ 80K+  | Most popular LLM framework              |
+| microsoft/autogen      | ⭐ 30K+  | Multi-agent orchestration               |
+| crewAIInc/crewAI       | ⭐ 20K+  | Collaborative AI agents                 |
+| llamaindex/llama_index | ⭐ 30K+  | Data framework for LLM apps             |
+
+---
+
+### ⚡ Tier 2 — Claude Ecosystem Core
+
+| Repo                              | ⭐ Stars   | Why It Matters         |
+| --------------------------------- | --------- | ---------------------- |
+| anthropics/skills                 | ⭐ Growing | Official Claude skills |
+| BehiSecc/awesome-claude-skills    | ⭐ 3K+     | Popular curated list   |
+| VoltAgent/awesome-agent-skills    | ⭐ 2K+     | Large skill collection |
+| alirezarezvani/claude-skills      | ⭐ 1K+     | Multi-skill ecosystem  |
+| levnikolaevich/claude-code-skills | ⭐ 1K+     | Dev workflows          |
+
+---
+
+### 🧠 Tier 3 — Builders & Advanced Tools
+
+| Repo                             | ⭐ Stars   | Why It Matters    |
+| -------------------------------- | --------- | ----------------- |
+| ComposioHQ/awesome-claude-skills | ⭐ Growing | App integrations  |
+| hesreallyhim/awesome-claude-code | ⭐ Growing | Architectures     |
+| flowiseai/flowise                | ⭐ 25K+    | Visual AI builder |
+| langflow-ai/langflow             | ⭐ 20K+    | UI for LLM apps   |
+| mem0ai/mem0                      | ⭐ 10K+    | AI memory layer   |
+
+---
+
+### 🧰 Tier 4 — Developer Ecosystem
+
+| Repo                 | ⭐ Stars   | Why It Matters       |
+| -------------------- | --------- | -------------------- |
+| vercel/ai            | ⭐ 15K+    | AI SDK               |
+| continuedev/continue | ⭐ 20K+    | AI coding assistant  |
+| openai/evals         | ⭐ 10K+    | Evaluation framework |
+| dust-tt/dust         | ⭐ Growing | Workflow builder     |
+| superagent-ai repos  | ⭐ Growing | Agent frameworks     |
+
+---
+
+⭐ Star counts are approximate and updated periodically
+
+---
+
+## 🏆 Must Explore First
+
+If you’re new, start here:
+
+1. obra/superpowers  
+2. awesome-claude-skills  
+3. claude-code-skills  
+4. crewAI  
+5. LangChain
+
+---
+
 ## 🦾 Superpower Skills
 
 ### 🧠 Autonomous Debugging Agent
